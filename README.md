@@ -1,2 +1,4 @@
-# portfolio
-Portfolio for barumski/Jørn Andre Bærum
+# Portfolio
+Portfolio for barumski - Jørn Andre Bærum
+
+## Description
